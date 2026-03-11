@@ -1,0 +1,77 @@
+/* This imports the 'Inter' font, which looks like modern apps */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9; /* A light grey background is easier on the eyes */
+    color: #333;
+    padding: 20px;
+}
+
+
+/* This targets the <button> tag directly */
+button {
+    background-color: #007bff; /* Modern Blue */
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    border: none;             /* Removes the ugly default grey border */
+    border-radius: 8px;       /* Rounds those corners */
+    cursor: pointer;          /* Makes the 'hand' icon appear on hover */
+    font-weight: 600;
+    transition: all 0.2s ease; /* Makes it feel smooth */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+/* What happens when you hover over it */
+button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px); /* Lifts the button slightly */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* What happens when you click it */
+button:active {
+    transform: translateY(0); /* Pushes it back down when clicked */
+}
+
+h3 {
+    /* The Button Look */
+    background-color: #007bff;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    
+    /* The Button Shape */
+    display: block;
+    width: 85%;      /* Covers 90% of the screen
+    margin: 20px 0;          /* Adds space around the header */
+    
+    /* The Polish */
+    font-size: 1.2rem;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none; /* Removes the standard underline */
+    font-weight: 600;
+    border-bottom: 2px solid rgba(0, 123, 255, 0.2); /* Soft underline */
+    transition: 0.3s;
+}
+
+a:hover {
+    border-bottom: 2px solid #007bff; /* Brightens on hover */
+    color: #0056b3;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background: #007bff; /* Blue */
+    margin: 30px 0;
+}
