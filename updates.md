@@ -4,3 +4,5 @@
 • **Titles** look better
 
 • Links have **better colours** and has new **underline colour**
+## Update 0.56.95
+• More **info** in both **HTML files**
