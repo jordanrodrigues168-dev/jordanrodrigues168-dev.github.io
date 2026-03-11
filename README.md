@@ -12,4 +12,4 @@
 
 • **Titles** look better
 
-• All **update logs** in **updates.md**
+• Links have **better colours** and has new **underline colour**
