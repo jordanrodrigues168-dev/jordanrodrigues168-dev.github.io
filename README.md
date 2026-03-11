@@ -6,3 +6,5 @@
 • Has no **style** or **javascript**
 
 • Bare bones **HTML**
+
+• Main Page [main.html]
