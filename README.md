@@ -3,9 +3,9 @@
 
 • **Pull Requests** are okay
 
-• Has no **style** or **javascript**
+• Has **style** but no **javascript**
 
-• Bare bones **HTML**
+• Now has **style**!
 
 • View page [main](https://jordanrodrigues168-dev.github.io/main.html) [contribution](https://jordanrodrigues168-dev.github.io/pages/contribution.html)
 
