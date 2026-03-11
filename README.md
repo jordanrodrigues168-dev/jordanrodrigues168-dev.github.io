@@ -7,4 +7,4 @@
 
 • Bare bones **HTML**
 
-• [View main page](https://jordanrodrigues.github.io/main.html)
+• [View main page](https://jordanrodrigues.github.io/index.html/)
