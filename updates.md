@@ -2,3 +2,5 @@
 • Better **buttons** with **colour** and **shadow effects**
 
 • **Titles** look better
+
+• Links have **better colours** and has new **underline colour**
