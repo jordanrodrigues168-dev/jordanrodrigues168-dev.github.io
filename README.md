@@ -7,4 +7,4 @@
 
 • Bare bones **HTML**
 
-• Main Page [main.html]
+• See [main page](main.html)
