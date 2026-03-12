@@ -9,5 +9,5 @@
 
 • View page [main](https://jordanrodrigues168-dev.github.io/main.html) | [contribution](https://jordanrodrigues168-dev.github.io/pages/contribution.html) | [update logs](https://jordanrodrigues168-dev.github.io/pages/updatelogs.html)
 
-## Update 0.56.95
-• More **info** in both **HTML files**
+## Update 0.61.13
+• Add **update logs** page
